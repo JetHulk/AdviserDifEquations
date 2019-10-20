@@ -1,0 +1,23 @@
+First Order DE?
+Separable Equation?
+Separate x,y to the sides and integrate.
+
+
+Use Integrating Factor.
+
+
+Second Order?
+Homogenous?
+Use Auxiliary Method or if you are given one general solution, use Reduction of Order.
+
+
+With Constant Coefficients?
+Use Annihilator Method.
+
+
+Use Variation of Parameters method.
+
+
+Sorry. This program is not programed to solve more complicated DEs.
+
+
